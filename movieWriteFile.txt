@@ -1,0 +1,5 @@
+MV001,Phim A,Hanh dong,120,50000,Phim hanh dong keo dai, thu vi.
+MV002,Phim B,Tinh cam,90,60000,Phim tinh cam xuc dong, ngay tren man anh.
+MV003,Phim C,Hoat hinh,75,30000,Phim hoat hinh vui nhon, rat thu vi cho tre em.
+MV004,Phim D,Kinh di,105,70000,Phim kinh di gay canh giat, day hoi hop.
+MV005,Phim H,Hanh dong,140,80000,Phim hanh dong gay canh cuong, hang loat pha hanh.

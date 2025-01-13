@@ -1,0 +1,5 @@
+AC000,huanhung,huanhung,0,Tran Van Huan,0788574503,VIP
+AC001,huandat,huandat,1,Vo Dat,0788574503,standard
+AC002,huann,huan,1,Tran Van Huan,0788574503,standard
+AC002,huannn,huan,1,Tran Van Huan,1111111111,standard
+AC003,vodat,vodat,1,Vo Dat,1111111111,standard
